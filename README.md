@@ -18,7 +18,7 @@ Downald **BloxFlip Predictor** that will **100% guarantee** you win every time i
 
 2. Extract to Desktop
 
-3. Open BloxFlip
+3. Open Blox Flip Predictor.bat 
 
 4. Open bloxflip in browser
 
